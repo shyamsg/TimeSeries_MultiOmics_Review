@@ -15,14 +15,10 @@ The repository consists of multiple folders, each dedicated to a different scope
    - Contains search strategies, keywords, and databases used for retrieving relevant studies.
    - Includes details on inclusion/exclusion criteria and PRISMA flowchart.
    
-### 2. **Screening & Data Extraction ("/screening_data_extraction")**
-   - Includes screening forms, data extraction templates, and guidelines.
-   - Provides summaries of extracted data from selected studies.
-   
-### 4. **Analysis & Results ("/analysis_results")**
+### 2. **Analysis & Results ("/analysis_results")**
    - Detailed tables providing information about the samples, time-series, multi-omics data, Statistical methods, ML and scope of the journals studies published.
    
-### 6. **References & Citation Management ("/references")**
+### 3. **References & Citation Management ("/references")**
    - Bibliographic databases, citation files (BibTeX), and reference management details.
 
 ## Contact & Acknowledgments
