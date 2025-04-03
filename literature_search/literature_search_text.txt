@@ -1,0 +1,31 @@
+The search for relevant literature was conducted on June 15th, 2024, using the key "multi-omics ("time series" OR "over time" OR "temporal" OR "longitudinal")" in all domains of the Web of Science. 
+
+The Scopus database was queried using the search term "TITLE-ABS-KEY("multi" AND "omics" AND ("time series" OR "across time" OR "temporal" OR "longitudinal"))". We restricted the searches to original studies written in English and excluded review studies. This yielded 382 entries from Web of Science and 459 entries from Scopus. 
+
+After manually identifying and eliminating 311 duplicates, 530 distinct records remained for analysis. Based on abstract screening, we excluded studies that did not align within the defined scope. 
+
+The remaining 174 studies underwent full-text screening, during which we excluded further 31 studies out of 174 studies due to incomplete information as defined in our study design. 
+
+A total of 143 studies fulfilled the criteria established for this review.
+
+The 143 studies that met our systematic review criteria consisted of 125 (87%) applied studies and 18 (13%) methodological studies. Among the 125 applied studies, 55 included "host and host-associated microbiome data" - these studies investigate both the host and its associated microbial communities.
+
+Of the remaining 70 studies, 57 included "microbiome-free host data" - these studies focus exclusively on the host, analyzing host genomics, transcriptomics, proteomics, or metabolomics without considering microbial data.
+
+Finally, there were 13 studies that focused on "host-free microbiome data" - these studies examine microbial communities in environments or contexts where a host is not involved, such as free-living or environmental microbiomes. 
+
+Each study was evaluated by at least two authors to ensure consistency. 
+
+For the applied studies, we systematically summarized key aspects, including the types of samples analysed, the frequency and duration of sampling, the types of ’omics data used and the analytical approaches employed. 
+
+For the methods-based studies, we performed a qualitative assessment based on established criteria: predictive performance, interpretability and ease of installation/use. 
+
+These criteria were selected to address fundamental considerations for the actual implementation and usability of methods in multi-omics research. 
+
+Predictive performance was emphasized to guarantee the reliability and accuracy of results, while interpretability evaluated the capacity of each approach to produce understandable and significant insights for users. 
+
+User-friendly implementation and the ease of installation are essential considerations for the accessibility of a wider scientific audience. 
+
+Furthermore, we evaluated the development and maintenance activities of each technique in order to further assess the robustness and long-term availability. 
+
+This assessment included data from the primary studies and associated resources, including code repositories, tutorials and online documentation.
