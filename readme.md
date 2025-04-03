@@ -6,7 +6,7 @@ Welcome to the **Multi-omics time series analysis in microbiome research: a syst
 
 Here, you will find well-organized tables, repositories, and documentation related to different aspects of the systematic review. The repository is structured to facilitate collaboration and allow researchers to easily access relevant information based on their specific interests.
 
-![Descriptive Alt Text](images/Fig1.png)
+![Descriptive Alt Text](Images/Fig1.png)
 
 ## Repository Structure
 The repository consists of multiple folders, each dedicated to a different scope of information related to the systematic review:
